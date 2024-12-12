@@ -1,0 +1,1 @@
+This application is a multi-level complex structure with 3 entities. In it. a cache, a pos/sub mechanism (redis), as well as a JWT token are used. Everything is written in Java (there is no frontend, only REST controllers + GraphQL version are written)
